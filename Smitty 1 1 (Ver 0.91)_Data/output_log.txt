@@ -1,0 +1,62 @@
+Mono path[0] = 'C:/Users/test/Documents/GitHub/Huah1/Smitty 1 1 (Ver 0.91)_Data/Managed'
+Mono path[1] = 'C:/Users/test/Documents/GitHub/Huah1/Smitty 1 1 (Ver 0.91)_Data/Mono'
+Mono config path = 'C:/Users/test/Documents/GitHub/Huah1/Smitty 1 1 (Ver 0.91)_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/test/Documents/GitHub/Huah1/Smitty 1 1 (Ver 0.91)_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55206
+Multi-casting "[IP] 10.0.0.73 [Port] 55206 [Flags] 2 [Guid] 3951266574 [EditorId] 1851412201 [Version] 1048832 [Id] WindowsPlayer(JACKSPC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.0.0.73:55206]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730M       (ID=0x1290)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.493 seconds
+desktop: 1920x1080 48Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\test\Documents\GitHub\Huah1\Smitty 1 1 (Ver 0.91)_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2398 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1649)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.263628 ms
+System memory in use before: 138.0 MB.
+System memory in use after: 138.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 11.166911 ms (FindLiveObjects: 0.088031 ms CreateObjectMapping: 0.063950 ms MarkObjects: 10.817945 ms  DeleteObjects: 0.194220 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.337688 ms
+System memory in use before: 133.5 MB.
+System memory in use after: 124.3 MB.
+
+Unloading 144 unused Assets to reduce memory usage. Loaded Objects now: 457.
+Total: 5.027637 ms (FindLiveObjects: 0.083688 ms CreateObjectMapping: 0.067503 ms MarkObjects: 0.643060 ms  DeleteObjects: 4.230620 ms)
+
